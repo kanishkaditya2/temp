@@ -1,0 +1,11 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2021-11-16 21:31:37 +0530",
+      "minecraft:ocean": "2021-11-16 21:31:38 +0530",
+      "minecraft:plains": "2021-11-16 21:31:18 +0530"
+    },
+    "done": false
+  },
+  "DataVersion": 2847
+}
